@@ -20,8 +20,8 @@ export default function Hero() {
                 </div>
             </form>
 
-            <section className="container bg-light-pink h-full">
-                <div className="flex flex-col lg:flex-col mx-auto pt-16">
+            <section className="bg-light-pink w-full h-full">
+                <div className="flex flex-col lg:flex-col mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8 pt-16">
                     <h2 className="text-left mb-8 lg:mb-0">A la une</h2>
                     <div className="flex flex-col md:flex-row-reverse justify-between w-full h-auto">
                         <div className="md:w-1/2 mb-8 md:mb-0">
