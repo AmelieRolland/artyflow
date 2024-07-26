@@ -15,6 +15,8 @@ const config: Config = {
       },
       colors: {
         'light-pink': '#EAC9C1',
+        'dark-pink': '#D46F59',
+        'md-pink': '#D3AD9E',
       },
     },
   },
