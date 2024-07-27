@@ -12,7 +12,7 @@ export default function Hero() {
                     <input
                         type="search"
                         id="default-search"
-                        className="block w-full p-4 pl-12 text-sm text-gray-900 border border-gray-300 rounded-xl bg-gray-100 focus:ring-blue-500 focus:border-blue-500"
+                        className="block w-full p-4 pl-12 text-sm text-gray-900 border border-gray-300 rounded-3xl bg-gray-100 focus:ring-blue-500 focus:border-blue-500"
                         placeholder="Ville, code postal..."
                         required
                     />
