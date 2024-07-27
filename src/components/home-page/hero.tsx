@@ -39,7 +39,7 @@ export default function Hero() {
                                     width={800}
                                     height={600}
                                     className="object-cover w-full h-full"
-                                    src="/ouquetusois.jpg"
+                                    src="/ouquetusois.png"
                                     alt="oeuvre à la une"
                                 />
                             </div>
