@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export default function Hero() {
     return (
         <>
@@ -33,7 +35,13 @@ export default function Hero() {
                     <div className="flex flex-col md:flex-row-reverse justify-between w-full h-auto content-center items-center">
                         <div className="md:w-1/2 mb-8 md:mb-0">
                             <div className="mx-auto relative z-50 h-full bg-gray-200 lg:w-full md:w-full w-3/4 mb-8 md:mb-0">
-                                <img className="w-full h-full object-cover" src="/ouQueTuSois.JPG" alt="Image" />
+                                <Image
+                                    width={800}
+                                    height={600}
+                                    className="object-cover w-full h-full"
+                                    src="/ouquetusois.jpg"
+                                    alt="oeuvre à la une"
+                                />
                             </div>
                         </div>
                         <div className="md:w-1/2 md:pe-8 h-full">
