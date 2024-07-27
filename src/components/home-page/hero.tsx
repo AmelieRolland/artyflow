@@ -43,8 +43,9 @@ export default function Hero() {
                             </div>
                         </div>
                         <div className="md:w-1/2 md:pe-8 h-full">
-                            <h3>Nom de l'artiste</h3>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda animi officiis nesciunt neque aliquam, eum minus nostrum ipsam ratione, consectetur voluptate nobis optio quae porro laboriosam veniam cumque quis deserunt. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda animi officiis nesciunt neque aliquam, eum minus nostrum ipsam ratione, consectetur voluptate nobis optio quae porro laboriosam veniam cumque quis deserunt.</p>
+                            <h3 className="pb-5">Nom de l'artiste</h3>
+
+                            <p className="pb-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda animi officiis nesciunt neque aliquam, eum minus nostrum ipsam ratione, consectetur voluptate nobis optio quae porro laboriosam veniam cumque quis deserunt. Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda animi officiis nesciunt neque aliquam, eum minus nostrum ipsam ratione, consectetur voluptate nobis optio quae porro laboriosam veniam cumque quis deserunt.</p>
                             <div className="py-8">
                                 <a className="bg-dark-pink py-3 px-6 rounded-full text-white" href="">Je découvre</a>
                             </div>
