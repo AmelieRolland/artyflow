@@ -54,7 +54,15 @@ export default function HomeContent() {
 
                         <article className="relative">
                             <div className=" overflow-hidden">
-                                <img className="group-hover:scale-125 h-full w-full object-cover transition-all duration-300" src="/Suzanne.jpg" alt="" />
+                                <Image
+                                    width={600}
+                                    height={800}
+                                    src="/Suzanne.jpg"
+                                    alt="Image"
+                                    layout="fill"
+                                    objectFit="cover"
+                                    className="group-hover:scale-125 transition-all duration-300"
+                                />
                             </div>
 
                             <div className="mt-4 flex items-end justify-between">
@@ -115,7 +123,15 @@ export default function HomeContent() {
 
                         <article className="relative">
                             <div className=" overflow-hidden">
-                                <img className="group-hover:scale-125 h-full w-full object-cover transition-all duration-300" src="/Suzanne.jpg" alt="" />
+                                <Image
+                                    width={600}
+                                    height={800}
+                                    src="/Suzanne.jpg"
+                                    alt="Image"
+                                    layout="fill"
+                                    objectFit="cover"
+                                    className="group-hover:scale-125 transition-all duration-300"
+                                />
                             </div>
 
                             <div className="mt-4 flex items-end justify-between">
@@ -176,7 +192,15 @@ export default function HomeContent() {
 
                         <article className="relative">
                             <div className=" overflow-hidden">
-                                <img className="group-hover:scale-125 h-full w-full object-cover transition-all duration-300" src="/Suzanne.jpg" alt="" />
+                                <Image
+                                    width={600}
+                                    height={800}
+                                    src="/Suzanne.jpg"
+                                    alt="Image"
+                                    layout="fill"
+                                    objectFit="cover"
+                                    className="group-hover:scale-125 transition-all duration-300"
+                                />
                             </div>
 
                             <div className="mt-4 flex items-end justify-between">
