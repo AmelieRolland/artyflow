@@ -71,10 +71,12 @@ export default function HomeContent() {
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
                                     <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                                        <a href="#" title="Nom de l'oeuvre" className="cursor-pointer">
-                                            Nom de l'oeuvre
-                                            <span className="absolute" aria-hidden="true"></span>
-                                        </a>
+                                        <Link href="/art-focus-page" passHref>
+                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                                Nom de l'oeuvre
+                                                <span className="absolute inset-0" aria-hidden="true"></span>
+                                            </span>
+                                        </Link>
                                     </h3>
                                     <h3>
                                         <a href="" title="artist name">
@@ -105,10 +107,12 @@ export default function HomeContent() {
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
                                     <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                                        <a href="#" title="Nom de l'oeuvre" className="cursor-pointer">
-                                            Nom de l'oeuvre
-                                            <span className="absolute" aria-hidden="true"></span>
-                                        </a>
+                                        <Link href="/art-focus-page" passHref>
+                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                                Nom de l'oeuvre
+                                                <span className="absolute inset-0" aria-hidden="true"></span>
+                                            </span>
+                                        </Link>
                                     </h3>
                                     <h3>
                                         <a href="" title="artist name">
@@ -139,10 +143,12 @@ export default function HomeContent() {
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
                                     <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                                        <a href="#" title="Nom de l'oeuvre" className="cursor-pointer">
-                                            Nom de l'oeuvre
-                                            <span className="absolute" aria-hidden="true"></span>
-                                        </a>
+                                        <Link href="/art-focus-page" passHref>
+                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                                Nom de l'oeuvre
+                                                <span className="absolute inset-0" aria-hidden="true"></span>
+                                            </span>
+                                        </Link>
                                     </h3>
                                     <h3>
                                         <a href="" title="artist name">
@@ -173,10 +179,12 @@ export default function HomeContent() {
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
                                     <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                                        <a href="#" title="Nom de l'oeuvre" className="cursor-pointer">
-                                            Nom de l'oeuvre
-                                            <span className="absolute" aria-hidden="true"></span>
-                                        </a>
+                                        <Link href="/art-focus-page" passHref>
+                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                                Nom de l'oeuvre
+                                                <span className="absolute inset-0" aria-hidden="true"></span>
+                                            </span>
+                                        </Link>
                                     </h3>
                                     <h3>
                                         <a href="" title="artist name">
@@ -207,10 +215,12 @@ export default function HomeContent() {
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
                                     <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                                        <a href="#" title="Nom de l'oeuvre" className="cursor-pointer">
-                                            Nom de l'oeuvre
-                                            <span className="absolute" aria-hidden="true"></span>
-                                        </a>
+                                        <Link href="/art-focus-page" passHref>
+                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                                Nom de l'oeuvre
+                                                <span className="absolute inset-0" aria-hidden="true"></span>
+                                            </span>
+                                        </Link>
                                     </h3>
                                     <h3>
                                         <a href="" title="artist name">
@@ -241,10 +251,12 @@ export default function HomeContent() {
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
                                     <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                                        <a href="#" title="Nom de l'oeuvre" className="cursor-pointer">
-                                            Nom de l'oeuvre
-                                            <span className="absolute" aria-hidden="true"></span>
-                                        </a>
+                                        <Link href="/art-focus-page" passHref>
+                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                                Nom de l'oeuvre
+                                                <span className="absolute inset-0" aria-hidden="true"></span>
+                                            </span>
+                                        </Link>
                                     </h3>
                                     <h3>
                                         <a href="" title="artist name">
@@ -275,10 +287,12 @@ export default function HomeContent() {
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
                                     <h3 className="text-xs font-semibold sm:text-sm md:text-base">
-                                        <a href="#" title="Nom de l'oeuvre" className="cursor-pointer">
-                                            Nom de l'oeuvre
-                                            <span className="absolute" aria-hidden="true"></span>
-                                        </a>
+                                        <Link href="/art-focus-page" passHref>
+                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                                Nom de l'oeuvre
+                                                <span className="absolute inset-0" aria-hidden="true"></span>
+                                            </span>
+                                        </Link>
                                     </h3>
                                     <h3>
                                         <a href="" title="artist name">
