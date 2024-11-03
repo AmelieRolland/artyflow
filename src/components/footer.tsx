@@ -11,8 +11,7 @@ export default function Footer() {
                 <div className="mb-6 md:mb-0">
                     <h6 className="font-semibold mb-2">Contact</h6>
                     <p className="text-sm">Email: contact@artyflow.com</p>
-                    <p className="text-sm">Phone: +1 (123) 456-7890</p>
-                    <p className="text-sm">Location: 123 Art Street, Paris, France</p>
+                    <p className="text-sm">Location: Lyon, France</p>
                 </div>
 
                 {/* RS */}
