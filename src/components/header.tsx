@@ -38,7 +38,7 @@ export default function Header() {
               </Link>
             </li>
             <li>
-              <Link href="/moncompte" className="block py-2 px-3 text-gray-900 rounded hover:text-pinker md:p-0">
+              <Link href="/mon-compte" className="block py-2 px-3 text-gray-900 rounded hover:text-pinker md:p-0">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"

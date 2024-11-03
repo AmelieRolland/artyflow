@@ -33,10 +33,10 @@ export default function HomeContent() {
                             </div>
 
                             <div className="mt-4 flex items-end justify-between">
-                                <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base relative">
+                                <div >
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base relative">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>
@@ -70,9 +70,9 @@ export default function HomeContent() {
 
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base">
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>
@@ -106,9 +106,9 @@ export default function HomeContent() {
 
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base">
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>
@@ -142,9 +142,9 @@ export default function HomeContent() {
 
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base">
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>
@@ -178,9 +178,9 @@ export default function HomeContent() {
 
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base">
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>
@@ -214,9 +214,9 @@ export default function HomeContent() {
 
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base">
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>
@@ -250,9 +250,9 @@ export default function HomeContent() {
 
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base">
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>
@@ -286,9 +286,9 @@ export default function HomeContent() {
 
                             <div className="mt-4 flex items-end justify-between">
                                 <div className="">
-                                    <h3 className="text-xs font-semibold sm:text-sm md:text-base">
+                                    <h3 className="text-xs font-bold sm:text-sm md:text-base">
                                         <Link href="/art-focus-page" passHref>
-                                            <span className="cursor-pointer" title="Nom de l'oeuvre">
+                                            <span className="cursor-pointer font-bold bold" title="Nom de l'oeuvre">
                                                 Nom de l'oeuvre
                                                 <span className="absolute inset-0" aria-hidden="true"></span>
                                             </span>

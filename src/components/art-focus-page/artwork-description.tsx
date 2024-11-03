@@ -13,8 +13,8 @@ export default function ArtworkDescription() {
             isFilled = !isFilled; 
     
             if (isFilled) {
-              heartIcon.setAttribute('fill', 'red'); 
-              heartIcon.setAttribute('stroke', 'red');
+              heartIcon.setAttribute('fill', '#AC4B36'); 
+              heartIcon.setAttribute('stroke', '#AC4B36');
             } else {
               heartIcon.setAttribute('fill', 'none'); 
             }
@@ -31,10 +31,10 @@ export default function ArtworkDescription() {
                                 <Image
                                     width={400}
                                     height={500}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="object-cover"
-                                    className="group-hover:scale-125 transition-all duration-300 p-7 bg-light-pink" // Ajout de p-7 et bg-light-pink
+                                    className="group-hover:scale-125 transition-all duration-300 p-5 bg-light-pink" // Ajout de p-7 et bg-light-pink
                                 />
                             </div>
                         </div>
