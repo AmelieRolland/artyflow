@@ -6,14 +6,11 @@ import HomeContent from "@/components/home-page/home-content";
 export default function Home() {
   return (
     <>
-    <header>
-      <Header />
-    </header>
+
     <main>
       <Hero />
       <HomeContent />
     </main>
-    <Footer />
     </>
   );
 }

@@ -4,11 +4,9 @@ import ArtworkDescription from "@/components/art-focus-page/artwork-description"
 
 const ArtFocus = () => (
   <>
-    <Header />
     <main >
       <ArtworkDescription />
     </main>
-    <Footer />
   </>
 );
 

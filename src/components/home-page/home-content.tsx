@@ -21,11 +21,11 @@ export default function HomeContent() {
                     <div className="mt-10 grid grid-cols-2 gap-8 lg:mt-16 lg:grid-cols-4 lg:gap-12">
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden p-2 bg-light-pink p-2 bg-light-pink">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
@@ -57,11 +57,11 @@ export default function HomeContent() {
                         </article>
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden bg-light-pink p-2">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
@@ -93,11 +93,11 @@ export default function HomeContent() {
                         </article>
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden p-2 bg-light-pink">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
@@ -129,11 +129,11 @@ export default function HomeContent() {
                         </article>
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden p-2 bg-light-pink">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
@@ -165,11 +165,11 @@ export default function HomeContent() {
                         </article>
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden p-2 bg-light-pink">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
@@ -201,11 +201,11 @@ export default function HomeContent() {
                         </article>
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden p-2 bg-light-pink">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
@@ -237,11 +237,11 @@ export default function HomeContent() {
                         </article>
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden p-2 bg-light-pink">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
@@ -273,11 +273,11 @@ export default function HomeContent() {
                         </article>
 
                         <article className="relative">
-                            <div className=" overflow-hidden">
+                            <div className=" overflow-hidden p-2 bg-light-pink">
                                 <Image
                                     width={600}
                                     height={800}
-                                    src="/Suzanne.jpg"
+                                    src="/thom.jpg"
                                     alt="Image"
                                     objectFit="cover"
                                     className="group-hover:scale-125 transition-all duration-300"
