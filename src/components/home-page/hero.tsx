@@ -3,25 +3,7 @@ import Image from 'next/image';
 export default function Hero() {
     return (
         <>
-            <form className="max-w-lg mx-auto mt-28 mb-8">
-                <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only">Search</label>
-                <div className="relative">
-                    <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
-                        <svg className="w-5 h-5 text-gray-500" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-                            <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
-                        </svg>
-                    </div>
-                    <input
-                        type="search"
-                        id="default-search"
-                        className="block w-full p-4 pl-12 text-sm text-gray-900 border border-gray-300 rounded-3xl bg-gray-100 focus:ring-pinker focus:outline-none focus:border-pinker"
-                        placeholder="Ville, code postal..."
-                        required
-                    />
-                    <button type="submit" className="text-white absolute right-2.5 bottom-2.5 bg-pinker hover:bg-md-pink focus:ring-4 focus:outline-none focus:ring-red-300 font-medium rounded-xl text-sm px-4 py-2">Search</button>
-                </div>
-            </form>
-
+            
             <section className="overflow-x-clip bg-light-pink w-full h-full">
                 <div className="flex flex-col lg:flex-col mx-auto max-w-screen-xl lg:py-20 px-4 sm:px-6 lg:px-8 pt-16">
                     <svg className='absolute top-[180px] lg:top-[120px] right-[0px] -z-5 w-72 sm:w-72 md:w-96 lg:w-[560px]' xmlns="http://www.w3.org/2000/svg"  zoomAndPan="magnify" viewBox="0 0 375 449.999984"  preserveAspectRatio="xMidYMid meet" version="1.0"><defs>

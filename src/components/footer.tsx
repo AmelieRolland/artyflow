@@ -4,7 +4,7 @@ export default function Footer() {
             <div className="container mx-auto flex flex-col md:flex-row justify-between items-start">
                 <div className="mb-6 md:mb-0">
                     <h5 className="text-2xl font-semibold">ArtyFlow</h5>
-                    <p className="mt-2 text-sm">Connecting art lovers with inspiring artworks.</p>
+                    <p className="mt-2 text-sm">Connecting art lovers ♡</p>
                 </div>
 
                 {/* Contact */}
