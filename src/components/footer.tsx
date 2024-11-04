@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
         <footer className="w-full bg-light-pink py-8 px-6 text-gray-800">
-            <div className="container mx-auto flex flex-col md:flex-row justify-between items-start md:items-center">
+            <div className="container mx-auto flex flex-col md:flex-row justify-between items-start">
                 <div className="mb-6 md:mb-0">
                     <h5 className="text-2xl font-semibold">ArtyFlow</h5>
                     <p className="mt-2 text-sm">Connecting art lovers with inspiring artworks.</p>
@@ -35,7 +35,7 @@ export default function Footer() {
                 </div>
             </div>
 
-            <div className="container mx-auto mt-8 border-t border-gray-300 pt-4 text-center text-sm text-gray-600">
+            <div className="container mx-auto mt-8 pt-4 text-center text-sm text-gray-600">
                 <p>&copy; 2024 ArtyFlow. All rights reserved.</p>
             </div>
         </footer>

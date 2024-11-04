@@ -29,4 +29,8 @@
   font-size: 1.25rem;
 }
 
+.scrollbar-thin::-webkit-scrollbar-button {
+  display: none;
+}
+
 
