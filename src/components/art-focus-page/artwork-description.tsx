@@ -19,6 +19,8 @@ export default function ArtworkDescription() {
                     heartIcon.setAttribute('stroke', '#AC4B36');
                 } else {
                     heartIcon.setAttribute('fill', 'none');
+                    heartIcon.setAttribute('stroke', 'currentColor');
+
                 }
             });
         }

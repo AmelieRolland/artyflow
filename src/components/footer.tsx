@@ -3,8 +3,8 @@ export default function Footer() {
         <footer className="w-full bg-light-pink py-8 px-6 text-gray-800">
             <div className="container mx-auto flex flex-col md:flex-row justify-between items-start">
                 <div className="mb-6 md:mb-0">
-                    <h5 className="text-2xl font-semibold">ArtyFlow</h5>
-                    <p className="mt-2 text-sm">Connecting art lovers ♡</p>
+                    <h5 className="mb-0 self-center text-3xl font-semibold whitespace-nowrap oleo-script-regular text-pinker ">ArtyFlow</h5>
+                    <p className="mt-2 text-base">Connecting art lovers ♡</p>
                 </div>
 
                 {/* Contact */}
