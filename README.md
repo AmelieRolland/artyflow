@@ -1,9 +1,6 @@
 # Artyflow - Project
 
-<video width="320" height="240" controls>
-  <source src="/public/artyflowdemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![capture ecran](image.png)
 
 ## Overview
 
