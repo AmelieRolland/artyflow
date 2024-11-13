@@ -4,6 +4,7 @@
   <source src="/public/artyflowdemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ## Overview
 
 Artyflow is a platform where artists can publish their artwork, and users can explore, favorite, and eventually purchase art. Artists can showcase their bio, and users can filter artworks by style or region. The platform allows easy interaction between artists and art lovers.
