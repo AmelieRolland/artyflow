@@ -16,12 +16,12 @@ Artyflow is a platform where artists can publish their artwork, and users can ex
 
 ## Tech Stack
 
-- **Next.js**
-- **Tailwind**
-- **React**
-- **Prettier**
-- **ESlint**
+- 🚀 **Next.js**
+- 🎨 **Tailwind CSS**
+- ⚛️ **React**
+- 💄 **Prettier**
+- 🧹 **ESLint**
 
-- **Database**:
-  - **PostgreSQL**
-  - **Prisma**
+- 💾 **Database**:
+  - 🐘 **PostgreSQL**
+  - 🔑 **Prisma**
