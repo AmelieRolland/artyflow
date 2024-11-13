@@ -3,7 +3,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React, { useEffect } from 'react';
 
-
 export default function HomeContent() {
     useEffect(() => {
         const heartIcons = document.querySelectorAll('.heart-icon');
@@ -346,13 +345,11 @@ export default function HomeContent() {
                             </div>
                         </article>
 
-
                     </div>
                 </div>
             </section>
 
         </>
     )
-
 
 }                  

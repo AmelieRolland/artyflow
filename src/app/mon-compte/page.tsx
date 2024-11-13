@@ -1,6 +1,7 @@
 const Moncompte = () => (
-    <>
-      <main >
-       
-      </main>
-    </>)
+  <>
+    <main>Mon compte</main>
+  </>
+);
+
+export default Moncompte;
